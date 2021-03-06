@@ -17,7 +17,7 @@ def b(array_val,n,k,l):
 
 
 
-input_file = open(r"sample_input.txt",'r')
+input_file = open(r"C:/Users/RANJINI/Deskstop/sample_inut.txt.py",'r')
 global input_goodies, final_output 
 input_goodies = {}
 final_output = {}
